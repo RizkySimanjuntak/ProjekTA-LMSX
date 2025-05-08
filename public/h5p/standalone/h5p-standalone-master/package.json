@@ -64,6 +64,7 @@
   },
   "homepage": "https://github.com/tunapanda/h5p-standalone#readme",
   "dependencies": {
-    "@commitlint/cli": "^17.6.3"
+    "@commitlint/cli": "^17.6.3",
+    "h5p-standalone": "file:"
   }
 }
